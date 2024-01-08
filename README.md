@@ -1,11 +1,8 @@
 # Avatar generator
 
-
-
-![Image 1](avatars/avatars4x4/avatar_3.png){: width="100px" height="100px"}
-![Image 2](avatars/avatars5x5/avatar_0.png){: width="100px" height="100px"}
-![Image 3](avatars/avatars6x6/avatar_5.png){: width="100px" height="100px"}
-
+<img src="avatars/avatars4x4/avatar_3.png" alt="Image 1" style="width:100px; height:100px;">
+<img src="avatars/avatars5x5/avatar_0.png" style="width:100px; height:100px;">
+<img src="avatars/avatars6x6/avatar_0.png" style="width:100px; height:100px;">
 
 This script creates avatars of various sizes using random matrix generation and visualization through the PIL library.
 
