@@ -25,7 +25,7 @@ def main(sizes, number):
         generate_images(i, number)
 
 
-sizes = 7
+sizes = 5
 number = 10
 
 main(sizes, number)
