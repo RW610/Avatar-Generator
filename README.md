@@ -1,5 +1,7 @@
 # Avatar generator
 
+This script creates avatars of various sizes using random matrix generation and visualization through the PIL library.
+
 <div>
      <img src="avatars/avatars3x3/avatar_1.png" style="width:150px; height:150px;">
      <img src="avatars/avatars4x4/avatar_3.png" style="width:150px; height:150px;">
@@ -8,7 +10,6 @@
      <img src="avatars/avatars7x7/avatar_3.png" style="width:150px; height:150px;">
 <div/>
 
-This script creates avatars of various sizes using random matrix generation and visualization through the PIL library.
 
 ## How to use
 
