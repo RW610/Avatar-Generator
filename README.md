@@ -2,6 +2,11 @@
 
 
 
+![Image 1](/path/to/image1.jpg){: width="100px" height="100px"}
+![Image 2](/path/to/image2.jpg){: width="100px" height="100px"}
+![Image 3](/path/to/image3.jpg){: width="100px" height="100px"}
+
+
 This script creates avatars of various sizes using random matrix generation and visualization through the PIL library.
 
 ## How to use
