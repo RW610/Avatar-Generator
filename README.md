@@ -1,5 +1,7 @@
 # Avatar generator
 
+
+
 This script creates avatars of various sizes using random matrix generation and visualization through the PIL library.
 
 ## How to use
@@ -23,7 +25,7 @@ This script creates avatars of various sizes using random matrix generation and 
 ## Example
 
 ```python
-sizes = 5  # 3, 7 to generate avatars many other sizes 
+sizes = 5       # 3, 8 to generate avatars many other sizes 
 number = 10
 
 main(sizes, number)
